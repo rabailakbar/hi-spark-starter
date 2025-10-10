@@ -1,0 +1,8 @@
+<svg width="320" height="180" viewBox="0 0 320 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="320" height="180" rx="8" fill="#F1F5F9"/>
+  <rect x="80" y="50" width="160" height="60" rx="8" fill="#8B5CF6" opacity="0.1"/>
+  <circle cx="120" cy="80" r="15" fill="#FF5A5F"/>
+  <circle cx="200" cy="80" r="15" fill="#8B5CF6"/>
+  <line x1="140" y1="80" x2="180" y2="80" stroke="#374151" stroke-width="2"/>
+  <text x="160" y="140" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="600">Debate Switch</text>
+</svg>

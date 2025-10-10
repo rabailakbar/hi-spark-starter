@@ -1,0 +1,7 @@
+<svg width="320" height="180" xmlns="http://www.w3.org/2000/svg">
+  <rect width="320" height="180" fill="#F1F5F9"/>
+  <rect x="50" y="50" width="60" height="40" fill="#8B5CF6"/>
+  <rect x="130" y="50" width="60" height="40" fill="#FF5A5F"/>
+  <rect x="210" y="50" width="60" height="40" fill="#5DDEDE"/>
+  <text x="160" y="120" text-anchor="middle" fill="#374151" font-size="14">Pick & Flick</text>
+</svg>
